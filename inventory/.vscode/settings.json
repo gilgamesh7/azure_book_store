@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/9b241b9f-967e-4b8a-80a3-f87d0746fd11/resourceGroups/readit-app-rg/providers/Microsoft.Web/sites/readit-inventory-vrb"
+}
