@@ -3,6 +3,7 @@ using cart.Data;
 using cart.Models;
 using System.Linq;
 
+// Adding comment o make sure AKS will update docker image
 namespace cart
 {
     public class BookLoader
