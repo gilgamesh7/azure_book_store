@@ -1,36 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\tech\\AZCourse\\NET6\\ServiceBusDemo\\ServiceBusDemo.csproj": {}
+    "/Users/vrbabu/Documents/code/Azure_Book_Store/azure_book_store/resources/ServiceBusDemo/ServiceBusDemo.csproj": {}
   },
   "projects": {
-    "C:\\tech\\AZCourse\\NET6\\ServiceBusDemo\\ServiceBusDemo.csproj": {
+    "/Users/vrbabu/Documents/code/Azure_Book_Store/azure_book_store/resources/ServiceBusDemo/ServiceBusDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tech\\AZCourse\\NET6\\ServiceBusDemo\\ServiceBusDemo.csproj",
+        "projectUniqueName": "/Users/vrbabu/Documents/code/Azure_Book_Store/azure_book_store/resources/ServiceBusDemo/ServiceBusDemo.csproj",
         "projectName": "ServiceBusDemo",
-        "projectPath": "C:\\tech\\AZCourse\\NET6\\ServiceBusDemo\\ServiceBusDemo.csproj",
-        "packagesPath": "C:\\Users\\memil\\.nuget\\packages\\",
-        "outputPath": "C:\\tech\\AZCourse\\NET6\\ServiceBusDemo\\obj\\",
+        "projectPath": "/Users/vrbabu/Documents/code/Azure_Book_Store/azure_book_store/resources/ServiceBusDemo/ServiceBusDemo.csproj",
+        "packagesPath": "/Users/vrbabu/.nuget/packages/",
+        "outputPath": "/Users/vrbabu/Documents/code/Azure_Book_Store/azure_book_store/resources/ServiceBusDemo/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\memil\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/vrbabu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
-            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -42,29 +35,13 @@
       },
       "frameworks": {
         "net6.0": {
-          "targetAlias": "net6.0",
           "dependencies": {
             "Azure.Messaging.ServiceBus": {
               "target": "Package",
               "version": "[7.7.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.414/RuntimeIdentifierGraph.json"
         }
       }
     }
